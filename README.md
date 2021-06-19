@@ -35,14 +35,16 @@
 
   <br/>
   <p align="center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img align="center" alt="Arafat Taninr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rng70&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Arafat Taninr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rng70&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /></a>
  <!-- Github ReadMe stats start -->
  <!-- Github top language start -->
  <br/>
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img aligh="center" alt="Arafat Tanin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rng70&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Arafat Tanin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rng70&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <!-- Github ReadMe stats start -->
+ ## Github ReadMe Stats
+<img align="left" alt="rng70's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rng70&count_private=true&show_icons=true&theme=radical&hide_border=true"/>
  <p/>
 
 <br/>
@@ -53,10 +55,6 @@
 <br/>
 <br/>
 
-## Github ReadMe Stats
-<img align="left" alt="rng70's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rng70&count_private=true&show_icons=true&theme=radical&hide_border=true"/>
-
-
 ## Connect with me:
 
 <p align="left">
@@ -64,6 +62,7 @@
 <a href = "https://twitter.com/ArafatTanin"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/rng_70/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
+<br/>
 ## ❤ Views and Followers
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
