@@ -31,10 +31,10 @@
 </p>
 <!-- Read Me streak end -->
 <!-- Github ReadMe stats start -->
-<h2>📊 My Github Stats<h2/>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Arafat Taninr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rng70&count_private=true&show_icons=true&hide_border=true&theme=highcontrast&bg_color=060A0CD0"/></a>
+<h2>📊 My Github Stats</h2>
+
+<p align="center">
+ <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Arafat Taninr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rng70&count_private=true&show_icons=true&hide_border=true&theme=highcontrast&bg_color=060A0CD0"/></a>
  <!-- Github ReadMe stats start -->
  <!-- Github top language start -->
  <br/>
@@ -42,19 +42,19 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <!-- Github ReadMe stats start -->
-<p/>
+</p>
 
-<h2>Arafat Tanin's Activity Graph<h2/>
+<h2>Arafat Tanin's Activity Graph</h2>
 <a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Arafat Tanin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rng70&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
-<h2>Connect with me:<h2/>
+<h2>Connect with me:</h2>
 <p align="left">
 <a href = "https://www.linkedin.com/in/rng70/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/ArafatTanin"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/rng_70/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 <br/>
-<h2>❤ Views and Followers<h2/>
+<h2>❤ Views and Followers</h2>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=rng70">
 </a>
