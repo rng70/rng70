@@ -46,16 +46,18 @@
 
 <h2>Arafat Tanin's Activity Graph</h2>
 <a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Arafat Tanin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rng70&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-<h2>Connect with me:</h2>
-<p align="left">
-<a href = "https://www.linkedin.com/in/rng70/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/ArafatTanin"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/rng_70/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+
 </p>
 <h2>Arafat Tanin's WakaTime Activity</h2>
 <p align="center">
 <a href="."><img alt="Arafat Tanin's WakaTime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=rng70&hide_title=true&layout=default"/></a>
  </p>
+ 
+<h2>Connect with me:</h2>
+<p align="left">
+<a href = "https://www.linkedin.com/in/rng70/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/ArafatTanin"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/rng_70/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 <h2>❤ Views and Followers</h2>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
