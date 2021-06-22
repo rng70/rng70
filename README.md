@@ -52,6 +52,9 @@
 <a href = "https://twitter.com/ArafatTanin"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/rng_70/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
+<h2>Arafat Tanin's WakaTime Activity</h2>
+<a href="."><img alt="Arafat Tanin's WakaTime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=rng70"/></a>
+
 <h2>❤ Views and Followers</h2>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=rng70">
