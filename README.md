@@ -2,7 +2,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Al Arafat Tanin</h1>
-<h3 align="center">I'm an Ethical Hacking and Machine Learning Enthusiast and also Engaged to GatsbyJS</h3>
+<h3 align="center">I'm an Ethical Hacking and Machine Learning Enthusiast & Gatsby Developer</h3>
 <!-- Image end -->
 <!-- About me start -->
 <h2>🙋‍♂️ About Me</h2>
