@@ -34,7 +34,7 @@
 <h2>📊 My Github Stats</h2>
 
 <p align="center">
- <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Arafat Taninr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rng70&count_private=true&show_icons=true&hide_border=true&theme=highcontrast&bg_color=060A0CD0"/></a>
+ <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Arafat Taninr's Github Stats" src="https://git-hub-read-me-stats-sandy.vercel.app/api?username=rng70&count_private=true&show_icons=true&hide_border=true&theme=highcontrast&bg_color=060A0CD0"/></a>
  <!-- Github ReadMe stats start -->
  <!-- Github top language start -->
  <br/>
