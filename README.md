@@ -45,7 +45,7 @@
 </p>
 
 <h2>Arafat Tanin's Activity Graph</h2>
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Arafat Tanin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rng70&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/rng70/github-readme-activity-graph"><img alt="Arafat Tanin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rng70&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 </p>
 <h2>Arafat Tanin's WakaTime Activity</h2>
