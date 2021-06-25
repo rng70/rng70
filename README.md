@@ -54,16 +54,20 @@
  </p>
  
 <h2>Connect with me:</h2>
-<p align="left">
+<p align="center">
 <a href = "https://www.linkedin.com/in/rng70/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/ArafatTanin"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/rng_70/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 <h2>❤ Views and Followers</h2>
+<p align="center">
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=rng70">
 </a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/rng70?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/rng70?tab=followers">
+ <img src="https://img.shields.io/github/followers/rng70?label=Followers&style=social" alt="GitHub Badge">
+</a>
+</p>
 
 
 ---
