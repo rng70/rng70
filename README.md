@@ -50,7 +50,7 @@
 </p>
 <h2>Arafat Tanin's WakaTime Activity</h2>
 <p align="center">
-<a href="."><img alt="Arafat Tanin's WakaTime Stats" src="https://git-hub-read-me-stats-sandy.vercel.app/api/wakatime?username=rng70&hide_title=true&layout=default"/></a>
+<a href="."><img alt="Arafat Tanin's WakaTime Stats" src="https://git-hub-read-me-stats-sandy.vercel.app/api/wakatime?username=rng70&hide_title=true&layout=compact"/></a>
  </p>
  
 <h2>Connect with me:</h2>
@@ -61,7 +61,7 @@
 
 <h2>❤ Views and Followers</h2>
 <p align="center">
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/rng70/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=rng70">
 </a>
 <a href="https://github.com/rng70?tab=followers">
