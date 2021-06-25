@@ -25,8 +25,8 @@
 <!-- Language and tools end -->
 <!-- Read Me streak start -->
 <p align="center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Arafat Tanin's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rng70&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/rng70/GitHub-ReadMe-Streak-Stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Arafat Tanin's streak" src="https://rng70-githubreadmestreak.herokuapp.com/?user=rng70&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 <!-- Read Me streak end -->
