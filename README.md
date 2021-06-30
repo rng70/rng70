@@ -45,14 +45,14 @@
 </p>
 
 <h2>Arafat Tanin's Activity Graph</h2>
-<a href="https://github.com/rng70/github-readme-activity-graph"><img alt="Arafat Tanin's Activity Graph" src="https://young-everglades-48617.herokuapp.com/graph?username=rng70&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/rng70/github-readme-activity-graph"><img alt="Arafat Tanin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rng70&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 </p>
 <h2>Arafat Tanin's WakaTime Activity</h2>
 <p align="center">
 <a href="."><img alt="Arafat Tanin's WakaTime Stats" src="https://git-hub-read-me-stats-sandy.vercel.app/api/wakatime?username=rng70&hide_title=true&layout=compact"/></a>
  </p>
- 
+
 <h2>Connect with me:</h2>
 <p align="center">
 <a href = "https://www.linkedin.com/in/rng70/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
