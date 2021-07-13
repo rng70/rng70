@@ -3,6 +3,14 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Al Arafat Tanin</h1>
 <h3 align="center">I'm an Ethical Hacking and Machine Learning Enthusiast & Gatsby Developer</h3>
+<p align="center">
+<a href="https://github.com/rng70/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=rng70">
+</a>
+<a href="https://github.com/rng70?tab=followers">
+ <img src="https://img.shields.io/github/followers/rng70?label=Followers&style=social" alt="GitHub Badge">
+</a>
+</p>
 <!-- Image end -->
 <!-- About me start -->
 <h2>🙋‍♂️ About Me</h2>
@@ -58,17 +66,6 @@
 <a href = "https://www.linkedin.com/in/rng70/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/ArafatTanin"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/rng_70/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
-<h2>❤ Views and Followers</h2>
-<p align="center">
-<a href="https://github.com/rng70/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=rng70">
-</a>
-<a href="https://github.com/rng70?tab=followers">
- <img src="https://img.shields.io/github/followers/rng70?label=Followers&style=social" alt="GitHub Badge">
-</a>
-</p>
-
 
 ---
 [website]: https://alarafattanin.com
