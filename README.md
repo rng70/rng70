@@ -41,11 +41,16 @@
 <!-- Github ReadMe stats start -->
 <h2>📊 My Github Stats</h2>
 
-<p align="center">
- <a href="https://github.com/rng70/GitHub-ReadMe-Stats"><img alt="Arafat Taninr's Github Stats" src="https://git-hub-read-me-stats-sandy.vercel.app/api?username=rng70&count_private=true&show_icons=true&hide_border=true&theme=highcontrast&bg_color=060A0CD0"/></a>
+<table>
+     <tr>
+         <td><a href="https://github.com/rng70/GitHub-ReadMe-Stats"><img alt="Arafat Tanin's Github Stats (Current Year)" src="https://git-hub-read-me-stats-sandy.vercel.app/api?username=rng70&count_private=true&show_icons=true&hide_border=true&theme=highcontrast&bg_color=060A0CD0&custom_title=Arafat Tanin's Github Stats (Current Year)""/></a></td>
+         <td><a href="https://github.com/rng70/GitHub-ReadMe-Stats"><img alt="Arafat Tanin's Github Stats (All time)" src="https://git-hub-read-me-stats-sandy.vercel.app/api?username=rng70&count_private=true&show_icons=true&hide_border=true&theme=highcontrast&include_all_commits=true&bg_color=060A0CD0&custom_title=Arafat Tanin's Github Stats (All time)"/></a></td>
+     </tr>
+ </table>
  <!-- Github ReadMe stats start -->
  <!-- Github top language start -->
  <br/>
+ <p align="center">
   <a href="https://github.com/rng70/GitHub-ReadMe-Stats"><img alt="Arafat Tanin's Top Languages" src="https://git-hub-read-me-stats-sandy.vercel.app/api/top-langs/?username=rng70&langs_count=25&card_width=500&hide_border=true&layout=compact&theme=react&bg_color=060A0CD0" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -58,7 +63,7 @@
 </p>
 <h2>Arafat Tanin's WakaTime Activity</h2>
 <p align="center">
-<a href="."><img alt="Arafat Tanin's WakaTime Stats" src="https://git-hub-read-me-stats-sandy.vercel.app/api/wakatime?username=rng70&hide_title=true&layout=compact"/></a>
+<a href="."><img alt="Arafat Tanin's WakaTime Stats" src="https://git-hub-read-me-stats-sandy.vercel.app/api/wakatime?username=rng70&hide_title=true&layout=compact&theme=highcontrast&langs_count=10"/></a>
  </p>
 
 <h2>Connect with me:</h2>
