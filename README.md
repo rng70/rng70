@@ -60,7 +60,7 @@
  <p align="center">
   <!-- <a href="https://github.com/rng70/GitHub-ReadMe-Stats"><img alt="Arafat Tanin's Top Languages" src="https://git-hub-read-me-stats-sandy.vercel.app/api/top-langs/?username=rng70&langs_count=25&card_width=500&hide_border=true&layout=compact&theme=react&bg_color=060A0CD0" /></a>
   <br/> -->
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <b>Note: <em>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</em></b>
 <!-- Github ReadMe stats start --> 
 </p>
 
