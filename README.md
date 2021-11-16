@@ -22,6 +22,12 @@
 
 Hey, I’m Tanin and I’m 3rd year CS undergrade at Bangladesh University of Engineering and Technology(**BUET**). Normally I break things for making things secured and also I write code for the web. Currently I am focusing on open source and looking to more collaboration on **OpenSource**, Now I am learning **Advanced Data Structures and Algorithms**, **Natural Language Processing**, **Forensic**, and how to use **Remnote** efficiently.
 
+<h2>Connect with me</h2>
+
+---
+
+
+
 <!-- About me end -->
 
 <h2>Interest</h2>
@@ -48,16 +54,16 @@ Hey, I’m Tanin and I’m 3rd year CS undergrade at Bangladesh University of En
     *   Learn to Use & Use to Learn (LtUUtL)
 
         - [ ] VS Code<sup>master</sup> & Remnote
-- [ ] Kubernetes
+        - [ ] Kubernetes
         - [ ] GraphQL
-- [ ] Web Animations
+        - [ ] Web Animations
         - [ ] Component Library
-- [ ] Tailwind, React & TypeScript
+        - [ ] Tailwind, React & TypeScript
         - [ ] AWS<sup>*</sup> & Smart Contracts<sup>???</sup>
-- [ ] Firmware<sup>???</sup>
+        - [ ] Firmware<sup>???</sup>
         - [ ] Hack The Box & Forensic
-- [ ] Do some math & physics
-  
+        - [ ] Do some math & physics
+
 
 **this is huge but hoping for the best**
 
@@ -116,11 +122,11 @@ Hey, I’m Tanin and I’m 3rd year CS undergrade at Bangladesh University of En
  </table>
 
 
-
  <!-- Github ReadMe stats end -->
  <!-- 
  <!-- Github top language start -->
  <br/>
+
  <p align="center">
   <!-- <a href="https://github.com/rng70/GitHub-ReadMe-Stats"><img alt="Arafat Tanin's Top Languages" src="https://git-hub-read-me-stats-sandy.vercel.app/api/top-langs/?username=rng70&langs_count=25&card_width=500&hide_border=true&layout=compact&theme=react&bg_color=060A0CD0" /></a>
   <br/> -->
@@ -133,17 +139,18 @@ Hey, I’m Tanin and I’m 3rd year CS undergrade at Bangladesh University of En
 <a href="https://github.com/rng70/github-readme-activity-graph"><img alt="Arafat Tanin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rng70&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&area=true" /></a> 
 -–>
 
-
 <h2>Connect with me:</h2>
 <p align="center">
 <a href = "https://www.linkedin.com/in/rng70/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/ArafatTanin"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/rng_70/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-LinkedIn
+
 
 Twitter
 
 Facebook
+
+LinkedIn
 
 
 ---
