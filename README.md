@@ -55,9 +55,10 @@ Hey, I’m Tanin and I’m 3rd year CS undergrade at Bangladesh University of En
 - [ ] Tailwind, React & TypeScript
         - [ ] AWS<sup>*</sup> & Smart Contracts<sup>???</sup>
 - [ ] Firmware<sup>???</sup>
-        - [ ] Hack ThForensic
+        - [ ] Hack The Box & Forensic
 - [ ] Do some math & physics
-    
+  
+
 **this is huge but hoping for the best**
 
 <h2> Languages and Tools:</h2>
@@ -108,6 +109,14 @@ Hey, I’m Tanin and I’m 3rd year CS undergrade at Bangladesh University of En
          <td><a href="."><img alt="Arafat Tanin's WakaTime Stats" src="https://git-hub-read-me-stats-sandy.vercel.app/api/wakatime?username=rng70&hide_title=false&bg_color=060A0CD0&hide_border=true&layout=compact&text_color=00FF00&title_color=F00&theme=highcontrast&langs_count=10&custom_title=Arafat Tanin's WakaTime Stats""/></a></td>
      </tr>
  </table>
+ <table>
+             <tr>
+             <td><a href="https://github.com/rng70/github-readme-activity-graph"><img alt="Arafat Tanin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rng70&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&area=true" /></td>
+             </tr>
+ </table>
+
+
+
  <!-- Github ReadMe stats end -->
  <!-- 
  <!-- Github top language start -->
@@ -118,15 +127,12 @@ Hey, I’m Tanin and I’m 3rd year CS undergrade at Bangladesh University of En
   <b>Note: <em>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</em></b>
 <!-- Github ReadMe stats start --> 
 </p>
-
+<!--
 <h2>Arafat Tanin's Activity Graph</h2>
-<a href="https://github.com/rng70/github-readme-activity-graph"><img alt="Arafat Tanin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rng70&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&area=true" /></a>
 
-<!-- </p>
-<h2>Arafat Tanin's WakaTime Activity</h2>
-<p align="center">
-<a href="."><img alt="Arafat Tanin's WakaTime Stats" src="https://git-hub-read-me-stats-sandy.vercel.app/api/wakatime?username=rng70&hide_title=true&layout=compact&theme=highcontrast&langs_count=10"/></a>
- </p> -->
+<a href="https://github.com/rng70/github-readme-activity-graph"><img alt="Arafat Tanin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rng70&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&area=true" /></a> 
+-–>
+
 
 <h2>Connect with me:</h2>
 <p align="center">
