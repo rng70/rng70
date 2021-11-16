@@ -49,19 +49,19 @@ Hey, I’m Tanin and I’m 3rd year CS undergrade at Bangladesh University of En
 
     *   Learn to Use & Use to Learn (LtUUtL)
 
-        -[ ] VS Code<sup>master</sup>
+        - [ ] VS Code<sup>master</sup>
 
-        -[ ] Kubernetes
+        - [ ] Kubernetes
 
-        -[ ] GraphQL
+        - [ ] GraphQL
 
-        -[ ] Tailwind, React & TypeScript
+        - [ ] Tailwind, React & TypeScript
 
-        -[ ] AWS<sup>*</sup> & Smart Contracts<sup>???</sup> 
+        - [ ] AWS<sup>*</sup> & Smart Contracts<sup>???</sup>
 
-        -[ ] Firmware<sup>???</sup>
+        - [ ] Firmware<sup>???</sup>
 
-        -[ ] Do some math & physics
+        - [ ] Do some math & physics
 
     **this is huge but hoping for the best**
 
