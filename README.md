@@ -55,6 +55,10 @@ Hey, I’m Tanin and I’m 3rd year CS undergrade at Bangladesh University of En
 
         - [ ] GraphQL
 
+        - [ ] Web Animations
+
+        - [ ] Component Library
+
         - [ ] Tailwind, React & TypeScript
 
         - [ ] AWS<sup>*</sup> & Smart Contracts<sup>???</sup>
