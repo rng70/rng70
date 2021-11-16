@@ -20,12 +20,9 @@
 
 ---
 
-Hey, I’m Tanin and I’m 3rd year CS undergrade at Bangladesh University of Engineering and Technology(**BUET**). Normally I break things for making things secure and I write code for the web. Currently I am focusing on open source and looking to more collaboration.
+Hey, I’m Tanin and I’m 3rd year CS undergrade at Bangladesh University of Engineering and Technology(**BUET**). Normally I break things for making things secured and also I write code for the web. Currently I am focusing on open source and looking to more collaboration on **OpenSource**, Now I am learning **Advanced Data Structures and Algorithms**, **Natural Language Processing**, **Forensic**, and how to use **Remnote** efficiently.
 
-- Currently I am learning **Advanced Data Structures and Algorithms**, **Natural Language Processing**, **Forensic**, and **Remnote**
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-- 🥅 2021 Goals: Contribute more to Open Source projects
-  <!-- About me end -->
+<!-- About me end -->
 
 <h2>Interest</h2>
 
@@ -38,6 +35,7 @@ Hey, I’m Tanin and I’m 3rd year CS undergrade at Bangladesh University of En
 *   Natural Language Processing
 *   History, Psychology, Astrophysics &
 *   Mathematics (Linear Algebra, Topology and Game Theory) 
+*   Capture the Flag(CTF) & Web App Pentesting
 
 <!-- Language and tools start -->
 
@@ -49,25 +47,18 @@ Hey, I’m Tanin and I’m 3rd year CS undergrade at Bangladesh University of En
 
     *   Learn to Use & Use to Learn (LtUUtL)
 
-        - [ ] VS Code<sup>master</sup>
-
-        - [ ] Kubernetes
-
+        - [ ] VS Code<sup>master</sup> & Remnote
+- [ ] Kubernetes
         - [ ] GraphQL
-
-        - [ ] Web Animations
-
+- [ ] Web Animations
         - [ ] Component Library
-
-        - [ ] Tailwind, React & TypeScript
-
+- [ ] Tailwind, React & TypeScript
         - [ ] AWS<sup>*</sup> & Smart Contracts<sup>???</sup>
-
-        - [ ] Firmware<sup>???</sup>
-
-        - [ ] Do some math & physics
-
-    **this is huge but hoping for the best**
+- [ ] Firmware<sup>???</sup>
+        - [ ] Hack ThForensic
+- [ ] Do some math & physics
+    
+**this is huge but hoping for the best**
 
 <h2> Languages and Tools:</h2>
 
@@ -79,6 +70,20 @@ Hey, I’m Tanin and I’m 3rd year CS undergrade at Bangladesh University of En
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
 </p>
+<h6>Programming Languages</h6>
+
+*   Primary: C++, JavaScript & Python
+*   Secondary: C, Java, Ruby, R & Julia
+
+<h6>Frontend Development<h6> 
+
+*   HTML, CSS, Tailwind, ReactJS, GatsbyJS & Styled Components
+
+<h6>Backend Development</h6>
+
+*   Framework: NodeJS & ExpressJS
+*   Database: MongoDB & Oracle PL/SQL
+
 <!-- Language and tools end -->
 <!-- Read Me streak start -->
 
@@ -128,6 +133,12 @@ Hey, I’m Tanin and I’m 3rd year CS undergrade at Bangladesh University of En
 <a href = "https://www.linkedin.com/in/rng70/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/ArafatTanin"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/rng_70/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+LinkedIn
+
+Twitter
+
+Facebook
+
 
 ---
 [website]: https://alarafattanin.com
