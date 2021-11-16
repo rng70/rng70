@@ -1,9 +1,10 @@
 <!-- Image start -->
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Al Arafat Tanin</h1>
-<h3 align="center">I'm an Ethical Hacking and Machine Learning Enthusiast & Gatsby Developer</h3>
-<p align="center">
+<h1 align="left">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Al Arafat Tanin</h1>
+<hr style="height:4px;border-width:0;color:gray;background-color:gray">
+<h3 align="left">I'm an Ethical Hacking and Machine Learning Enthusiast & Gatsby Developer</h3>
+<p align="left">
 <a href="https://github.com/rng70/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=rng70">
 </a>
@@ -11,16 +12,60 @@
  <img src="https://img.shields.io/github/followers/rng70?label=Followers&style=social" alt="GitHub Badge">
 </a>
 </p>
+
 <!-- Image end -->
 <!-- About me start -->
-<h2>🙋‍♂️ About Me</h2>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+<h2>About Me</h2>
+
+---
+
+Hey, I’m Tanin and I’m 3rd year CS undergrade at Bangladesh University of Engineering and Technology(**BUET**). Normally I break things for making things secure and I write code for the web. Currently I am focusing on open source and looking to more collaboration.
+
+- Currently I am learning **Advanced Data Structures and Algorithms**, **Natural Language Processing**, **Forensic**, and **Remnote**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 🥅 2021 Goals: Contribute more to Open Source projects
-<!-- About me end -->
+  <!-- About me end -->
+
+<h2>Interest</h2>
+
+---
+
+*   Web3 
+*   Blockchain
+*   CyberSecurity
+*   Data Structure and Algorithm
+*   Natural Language Processing
+*   History, Psychology, Astrophysics &
+*   Mathematics (Linear Algebra, Topology and Game Theory) 
+
 <!-- Language and tools start -->
-## 🚀 Languages and Tools:
+
+<h2>Goals of 2022</h2>
+
+---
+
+*   Some of my goals in 2022
+
+    *   Learn to Use & Use to Learn (LtUUtL)
+
+        -[ ] VS Code<sup>master</sup>
+
+        -[ ] Kubernetes
+
+        -[ ] GraphQL
+
+        -[ ] Tailwind, React & TypeScript
+
+        -[ ] AWS<sup>*</sup> & Smart Contracts<sup>???</sup> 
+
+        -[ ] Firmware<sup>???</sup>
+
+        -[ ] Do some math & physics
+
+    **this is huge but hoping for the best**
+
+<h2> Languages and Tools:</h2>
 
  <p align="center">
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a> 
@@ -32,6 +77,7 @@
 </p>
 <!-- Language and tools end -->
 <!-- Read Me streak start -->
+
 <p align="center">
     <a href="https://github.com/rng70/GitHub-ReadMe-Streak-Stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Arafat Tanin's streak" src="https://rng70-githubreadmestreak.herokuapp.com/?user=rng70&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0&currStreakNum=2FD3EB&sideLabels=F00&dates=00FF00&ring=FFFF00&fire=F00&sideNums=2FD3EB&currStreakLabel=F00"/>
