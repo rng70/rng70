@@ -16,13 +16,13 @@
 <!-- Image end -->
 <!-- About me start -->
 
-<h2>About Me</h2>
+## About Me
 
 ---
 
 Hey, I’m Tanin and I’m 3rd year CS undergrade at Bangladesh University of Engineering and Technology(**BUET**). Normally I break things for making things secured and also I write code for the web. Currently I am focusing on open source and looking to more collaboration on **OpenSource**, Now I am learning **Advanced Data Structures and Algorithms**, **Natural Language Processing**, **Forensic**, and how to use **Remnote** efficiently.
 
-<h2>Connect with me</h2>
+## Connect with me
 
 ---
 
@@ -32,7 +32,7 @@ Hey, I’m Tanin and I’m 3rd year CS undergrade at Bangladesh University of En
 
 <!-- About me end -->
 
-<h2>Interest</h2>
+## Interest
 
 ---
 
@@ -47,7 +47,7 @@ Hey, I’m Tanin and I’m 3rd year CS undergrade at Bangladesh University of En
 
 <!-- Language and tools start -->
 
-<h2>Goals of 2022</h2>
+## Goals of 2022
 
 ---
 
@@ -69,7 +69,7 @@ Hey, I’m Tanin and I’m 3rd year CS undergrade at Bangladesh University of En
 
 **this is huge but hoping for the best**
 
-<h2> Languages and Tools:</h2>
+## Languages and Tools:
 
  <p align="center">
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a> 
@@ -79,7 +79,7 @@ Hey, I’m Tanin and I’m 3rd year CS undergrade at Bangladesh University of En
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
 </p>
-<h6>Programming Languages</h6>
+###### Programming Languages
 
 *   Primary: C++, JavaScript & Python
 *   Secondary: C, Java, Ruby, R & Julia
@@ -88,7 +88,7 @@ Hey, I’m Tanin and I’m 3rd year CS undergrade at Bangladesh University of En
 
 *   HTML, CSS, Tailwind, ReactJS, GatsbyJS & Styled Components
 
-<h6>Backend Development</h6>
+###### Backend Development
 
 *   Framework: NodeJS & ExpressJS
 *   Database: MongoDB & Oracle PL/SQL
@@ -139,24 +139,3 @@ Hey, I’m Tanin and I’m 3rd year CS undergrade at Bangladesh University of En
 <h2>Arafat Tanin's Activity Graph</h2>
 
 <a href="https://github.com/rng70/github-readme-activity-graph"><img alt="Arafat Tanin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rng70&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&area=true" /></a> 
--–>
-
-<h2>Connect with me:</h2>
-<p align="center">
-<a href = "https://www.linkedin.com/in/rng70/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/ArafatTanin"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/rng_70/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
-
-Twitter
-
-Facebook
-
-LinkedIn
-
-
----
-[website]: https://alarafattanin.com
-[twitter]: https://twitter.com/ArafatTanin
-[instagram]: https://instagram.com/rng_70
-[linkedin]: https://linkedin.com/in/rng70
