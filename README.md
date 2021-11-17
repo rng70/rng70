@@ -26,7 +26,9 @@ Hey, I’m Tanin and I’m 3rd year CS undergrade at Bangladesh University of En
 
 ---
 
-
+*   Twitter: <a href="https://twitter.com/rng70" target="_blank"><img src="https://img.shields.io/badge/twitter-rng70-red"/></a>
+*   LinkedIn: <a href="https://linkedin.com/in/rng70" target="_blank"><img src="https://img.shields.io/badge/linkedin-rng70-green"/></a>
+*   Facebook: <a href="https://www.facebook.com/arafat.rng70/" target="_blank"><img src="https://img.shields.io/badge/facebook-Al%20Arafat%20Tanin-blue"/></a>
 
 <!-- About me end -->
 
