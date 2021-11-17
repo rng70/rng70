@@ -82,7 +82,7 @@ Hey, I’m Tanin and I’m 3rd year CS undergrade at Bangladesh University of En
 *   Primary: C++, JavaScript & Python
 *   Secondary: C, Java, Ruby, R & Julia
 
-<h6>Frontend Development<h6> 
+###### Frontend Development
 
 *   HTML, CSS, Tailwind, ReactJS, GatsbyJS & Styled Components
 
