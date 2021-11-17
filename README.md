@@ -1,5 +1,10 @@
 <!-- Image start -->
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
+<p align="center"> 
+    <a href="#"><img width="100%" height="auto" src="./assets/rng70.png" height="175px"/> </a>
+</p>
+
+
 
 <h1 align="left">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Al Arafat Tanin</h1>
 <hr style="height:4px;border-width:0;color:gray;background-color:gray">
@@ -103,6 +108,7 @@ Hey, I’m Tanin and I’m 3rd year CS undergrade at Bangladesh University of En
 </p>
 <!-- Read Me streak end -->
 <!-- Github ReadMe stats start -->
+
 <h2>📊 My Github Stats</h2>
 
 <table>
