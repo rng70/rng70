@@ -61,6 +61,7 @@ Hey, I’m Tanin and I’m 3rd year CS undergrade at Bangladesh University of En
     *   Learn to Use & Use to Learn (LtUUtL)
 
         - [ ] VS Code<sup>master</sup> & Remnote
+        - [ ] Networking<sup>master</sup>
         - [ ] Kubernetes
         - [ ] GraphQL
         - [ ] Web Animations
@@ -76,6 +77,7 @@ Hey, I’m Tanin and I’m 3rd year CS undergrade at Bangladesh University of En
 
 ## Languages and Tools:
 
+<!--
  <p align="center">
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
@@ -84,6 +86,7 @@ Hey, I’m Tanin and I’m 3rd year CS undergrade at Bangladesh University of En
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
 </p>
+-->
 
 ###### Programming Languages
 
