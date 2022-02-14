@@ -47,7 +47,7 @@ Hey, I’m Tanin and I’m 3rd year CS undergrade at Bangladesh University of En
 *   Data Structure and Algorithm
 *   Natural Language Processing
 *   History, Psychology, Astrophysics &
-*   Mathematics (Linear Algebra, Topology and Game Theory) 
+*   Mathematics (Linear Algebra, Calculus, Topology and Game Theory) 
 *   Capture the Flag(CTF) & Web App Pentesting
 
 <!-- Language and tools start -->
