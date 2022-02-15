@@ -8,7 +8,7 @@
 
 <h1 align="left">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Al Arafat Tanin</h1>
 <hr style="height:4px;border-width:0;color:gray;background-color:gray">
-<h3 align="left">I'm an Ethical Hacking and Machine Learning Enthusiast & Gatsby Developer</h3>
+<h3 align="left">Ethical Hacker & Web App Pentester || Machine Learning Enthusiast || Next.JS & Gatsby Developer</h3>
 <p align="left">
 <a href="https://github.com/rng70/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=rng70">
@@ -25,7 +25,10 @@
 
 ---
 
-Hey, I’m Tanin and I’m 3rd year CS undergrade at Bangladesh University of Engineering and Technology(**BUET**). Normally I break things for making things secured and also I write code for the web. Currently I am focusing on open source and looking to more collaboration on **OpenSource**, Now I am learning **Advanced Data Structures and Algorithms**, **Natural Language Processing**, **Forensic**, and how to use **Remnote** efficiently.
+Hey, I’m Tanin. I’m 3rd year CS undergrade at Bangladesh University of Engineering and Technology(**BUET**). I am an ethical hacker and also web app pentester, machine learning ethusiast. I love CTF and to develop web app using Gatsby and NextJS. </br></br>
+As a hacker and pentester, normally I break things for making things secured and also I write code for the web. </br>
+Currently I am focusing on open source and looking to more collaboration on **OpenSource**. </br></br>
+Now I am learning **Advanced Data Structures and Algorithms**, **Natural Language Processing**, **Forensic**, and how to use **Remnote** efficiently.
 
 ## Connect with me
 
@@ -95,7 +98,7 @@ Hey, I’m Tanin and I’m 3rd year CS undergrade at Bangladesh University of En
 
 ###### Frontend Development
 
-*   HTML, CSS, Tailwind, ReactJS, GatsbyJS & Styled Components
+*   HTML, CSS, Tailwind, ReactJS, Gatsby, NextJS & Styled Components
 
 ###### Backend Development
 
