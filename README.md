@@ -104,15 +104,16 @@ Hey, I’m Tanin and I’m 3rd year CS undergrade at Bangladesh University of En
 
 <!-- Language and tools end -->
 <!-- Read Me streak start -->
-
+<!--
 <p align="center">
     <a href="https://github.com/rng70/GitHub-ReadMe-Streak-Stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Arafat Tanin's streak" src="https://rng70-githubreadmestreak.herokuapp.com/?user=rng70&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0&currStreakNum=2FD3EB&sideLabels=F00&dates=00FF00&ring=FFFF00&fire=F00&sideNums=2FD3EB&currStreakLabel=F00"/>
     </a>
 </p>
+-->
 <!-- Read Me streak end -->
 <!-- Github ReadMe stats start -->
-
+<!--
 <h2>📊 My Github Stats</h2>
 
 <table>
@@ -134,18 +135,18 @@ Hey, I’m Tanin and I’m 3rd year CS undergrade at Bangladesh University of En
  </table>
 
 
- <!-- Github ReadMe stats end -->
- <!-- 
+ <!-- Github ReadMe stats end --> 
  <!-- Github top language start -->
  <br/>
 
  <p align="center">
   <!-- <a href="https://github.com/rng70/GitHub-ReadMe-Stats"><img alt="Arafat Tanin's Top Languages" src="https://git-hub-read-me-stats-sandy.vercel.app/api/top-langs/?username=rng70&langs_count=25&card_width=500&hide_border=true&layout=compact&theme=react&bg_color=060A0CD0" /></a>
-  <br/> -->
+  <br/>
   <b>Note: <em>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</em></b>
 <!-- Github ReadMe stats start --> 
-</p>
 <!--
+</p>
 <h2>Arafat Tanin's Activity Graph</h2>
 
 <a href="https://github.com/rng70/github-readme-activity-graph"><img alt="Arafat Tanin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rng70&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&area=true" /></a> 
+-->
