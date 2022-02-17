@@ -25,18 +25,16 @@
 
 ---
 
-Hey, I’m Tanin. I’m 3rd year CS undergrade at Bangladesh University of Engineering and Technology(**BUET**). I am an ethical hacker and also web app pentester, machine learning ethusiast. I love CTF and to develop web app using Gatsby and NextJS. </br></br>
-As a hacker and pentester, normally I break things for making things secured and also I write code for the web. </br>
+Hey, I’m Tanin, 3rd year CS undergrade at Bangladesh University of Engineering and Technology(**BUET**). I am an ethical hacker and web app pentester, machine learning ethusiast, web app developer, CTF lover and an average linux user. </br></br>
+As a hacker and pentester, I break things for making things secured and as a web app developer write code for the web. </br>
 Currently I am focusing on open source and looking to more collaboration on **OpenSource**. </br></br>
-Now I am learning **Advanced Data Structures and Algorithms**, **Natural Language Processing**, **Forensic**, and how to use **Remnote** efficiently.
+Now I am learning **Advanced Data Structures and Algorithms**, **Natural Language Processing**, **Forensic**, **Gatsby** and **NextJS** and how to use **Remnote** efficiently.
 
 ## Connect with me
 
 ---
 
-*   Twitter: <a href="https://twitter.com/rng70" target="_blank"><img src="https://img.shields.io/badge/twitter-rng70-red"/></a>
-*   LinkedIn: <a href="https://linkedin.com/in/rng70" target="_blank"><img src="https://img.shields.io/badge/linkedin-rng70-green"/></a>
-*   Facebook: <a href="https://www.facebook.com/arafat.rng70/" target="_blank"><img src="https://img.shields.io/badge/facebook-Al%20Arafat%20Tanin-blue"/></a>
+<a href="https://twitter.com/rng70" target="_blank"><img src="https://img.shields.io/badge/twitter-rng70-red"/></a> <a href="https://linkedin.com/in/rng70" target="_blank"><img src="https://img.shields.io/badge/linkedin-rng70-green"/></a> <a href="https://www.facebook.com/arafat.rng70/" target="_blank"><img src="https://img.shields.io/badge/facebook-Al%20Arafat%20Tanin-blue"/></a>
 
 <!-- About me end -->
 
@@ -49,7 +47,7 @@ Now I am learning **Advanced Data Structures and Algorithms**, **Natural Languag
 *   CyberSecurity
 *   Data Structure and Algorithm
 *   Natural Language Processing
-*   History, Psychology, Astrophysics &
+*   History, Psychology & Astrophysics
 *   Mathematics (Linear Algebra, Calculus, Topology and Game Theory) 
 *   Capture the Flag(CTF) & Web App Pentesting
 
