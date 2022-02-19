@@ -25,7 +25,7 @@
 
 ---
 
-Hey, I’m Tanin, 3rd year CS undergrade at Bangladesh University of Engineering and Technology(**BUET**). I am an ethical hacker and web app pentester, machine learning ethusiast, web app developer, CTF lover and an average linux user. </br></br>
+Hey, I’m Tanin, 3rd year CS undergrade at Bangladesh University of Engineering and Technology(**BUET**). I am an ethical hacker and web app pentester, machine learning enthusiast, web app developer, CTF lover and an average linux user. </br></br>
 As a hacker and pentester, I break things for making things secured and as a web app developer write code for the web. </br>
 Currently I am focusing on open source and looking to more collaboration on **OpenSource**. </br></br>
 Now I am learning **Advanced Data Structures and Algorithms**, **Natural Language Processing**, **Forensic**, **Gatsby** and **NextJS** and how to use **Remnote** efficiently.
