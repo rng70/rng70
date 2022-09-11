@@ -25,10 +25,10 @@
 
 ---
 
-Hey, I’m Tanin, 3rd year CS undergrad at Bangladesh University of Engineering and Technology(**BUET**). I am an ethical hacker and web app pentester, machine learning enthusiast, web app developer, CTF lover and an average linux user. </br></br>
+Hey, I’m Tanin, final year CS undergrad at Bangladesh University of Engineering and Technology(**BUET**). I am an ethical hacker and web app pentester, machine learning enthusiast, web app developer, CTF lover and an average linux user. </br></br>
 As a hacker and pentester, I break things for making things secured and as a web app developer write code for the web. </br>
 Currently I am focusing on open source and looking to more collaboration on **OpenSource**. </br></br>
-Now I am learning **Advanced Data Structures and Algorithms**, **Natural Language Processing**, **Forensic**, **Gatsby** and **NextJS** and how to use **Remnote** efficiently.
+Now I am learning **Advanced Data Structures and Algorithms**, **Forensic**, **React**, **NextJS** and **Gatsby**.
 
 ## Connect with me
 
@@ -46,7 +46,6 @@ Now I am learning **Advanced Data Structures and Algorithms**, **Natural Languag
 *   Blockchain
 *   CyberSecurity
 *   Data Structure and Algorithm
-*   Natural Language Processing
 *   History, Psychology & Astrophysics
 *   Mathematics (Linear Algebra, Calculus, Topology and Game Theory) 
 *   Capture the Flag(CTF) & Web App Pentesting
@@ -61,16 +60,16 @@ Now I am learning **Advanced Data Structures and Algorithms**, **Natural Languag
 
     *   Learn to Use & Use to Learn (LtUUtL)
 
-        - [ ] VS Code<sup>master</sup> & Remnote
+        - [ ] VS Code<sup>*</sup>
         - [ ] Networking<sup>master</sup>
         - [ ] Kubernetes
         - [ ] GraphQL
         - [ ] Web Animations
         - [ ] Component Library
-        - [ ] Tailwind, React & TypeScript
-        - [ ] AWS<sup>*</sup> & Smart Contracts<sup>???</sup>
+        - [ ] Tailwind, React, React Bricks & TypeScript
+        - [ ] AWS<sup>*</sup> & Smart Contracts
         - [ ] Firmware<sup>???</sup>
-        - [ ] Hack The Box & Forensic
+        - [ ] Hack The Box, Reverse Engineering & Forensic
         - [ ] Do some math & physics
 
 
