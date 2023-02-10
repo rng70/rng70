@@ -25,8 +25,8 @@
 
 ---
 
-Hey, I’m Tanin, final year CS undergrad at Bangladesh University of Engineering and Technology(**BUET**). I am an ethical hacker and reverse engineering, malware analysis and kernel hack and development enthusiasts, web app developer, CTF lover and an average linux user. </br></br>
-As a cybersec enthusiasts, normally I break things for making things secured and as a web dev enthusiasts write code for the web. </br>
+Hey, I’m Tanin, final year CS undergrad at Bangladesh University of Engineering and Technology(**BUET**). I am an ethical hacker and reverse engineering, malware analysis and kernel hack and development enthusiast, web app developer, CTF lover and an average linux user. </br></br>
+As a cybersec enthusiast, normally I break things for making things secured and as a web dev enthusiast write code for the web. </br>
 <!-- Currently I am focusing on open source and looking to more collaboration on **OpenSource**. </br></br> --->
 Now I am learning **Advanced Data Structures and Algorithms**, **Forensic**, **Linux Driver Development** and a little bit of **React**, and **NextJS**.
 
