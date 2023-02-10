@@ -8,7 +8,7 @@
 
 <h1 align="left">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Al Arafat Tanin</h1>
 <hr style="height:4px;border-width:0;color:gray;background-color:gray">
-<h3 align="left">Ethical Hacker & Web App Pentester || Machine Learning Enthusiast || Next.JS & Gatsby Developer</h3>
+<h3 align="left">| Ethical Hacker || Driver Dev, Reverse Engineering, Machine Learning and Kernel Dev & Hack Enthusiast |</h3>
 <p align="left">
 <a href="https://github.com/rng70/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=rng70">
@@ -25,10 +25,10 @@
 
 ---
 
-Hey, I’m Tanin, final year CS undergrad at Bangladesh University of Engineering and Technology(**BUET**). I am an ethical hacker and web app pentester, machine learning enthusiast, web app developer, CTF lover and an average linux user. </br></br>
-As a hacker and pentester, I break things for making things secured and as a web app developer write code for the web. </br>
-Currently I am focusing on open source and looking to more collaboration on **OpenSource**. </br></br>
-Now I am learning **Advanced Data Structures and Algorithms**, **Forensic**, **React**, **NextJS** and **Gatsby**.
+Hey, I’m Tanin, final year CS undergrad at Bangladesh University of Engineering and Technology(**BUET**). I am an ethical hacker and reverse engineering, malware analysis and kernel hack and development enthusiasts, web app developer, CTF lover and an average linux user. </br></br>
+As a cybersec enthusiasts, normally I break things for making things secured and as a web dev enthusiasts write code for the web. </br>
+<!-- Currently I am focusing on open source and looking to more collaboration on **OpenSource**. </br></br> --->
+Now I am learning **Advanced Data Structures and Algorithms**, **Forensic**, **Linux Driver Development** and a little bit of **React**, and **NextJS**.
 
 ## Connect with me
 
@@ -48,29 +48,30 @@ Now I am learning **Advanced Data Structures and Algorithms**, **Forensic**, **R
 *   Data Structure and Algorithm
 *   History, Psychology & Astrophysics
 *   Mathematics (Linear Algebra, Calculus, Topology and Game Theory) 
-*   Capture the Flag(CTF) & Web App Pentesting
+*   Capture the Flag(CTF)
+*   Reverse Engineering and Malware Analysis
+*   Linux Driver Development
+*   Firmware and Linux Kernel
 
 <!-- Language and tools start -->
 
-## Goals of 2022
+## Goals of 2023
 
 ---
 
-*   Some of my goals in 2022
+*   Some of my goals in 2023
 
-    *   Learn to Use & Use to Learn (LtUUtL)
-
-        - [ ] VS Code<sup>*</sup>
-        - [ ] Networking<sup>master</sup>
-        - [ ] Kubernetes
-        - [ ] GraphQL
-        - [ ] Web Animations
-        - [ ] Component Library
-        - [ ] Tailwind, React, React Bricks & TypeScript
-        - [ ] AWS<sup>*</sup> & Smart Contracts
-        - [ ] Firmware<sup>???</sup>
-        - [ ] Hack The Box, Reverse Engineering & Forensic
-        - [ ] Do some math & physics
+       - [ ] VS Code<sup>learnig</sup>
+       - [ ] Networking<sup>learning</sup>
+       - [ ] Kubernetes
+       - [ ] GraphQL
+       - [ ] Web Animations
+       - [ ] Component Library
+       - [ ] Tailwind, React, React Bricks & TypeScript
+       - [ ] AWS & Smart Contracts
+       - [ ] Firmware
+       - [ ] Hack The Box, Reverse Engineering & Forensic
+       - [ ] Do some math & physics
 
 
 **this is huge but hoping for the best**
@@ -91,11 +92,11 @@ Now I am learning **Advanced Data Structures and Algorithms**, **Forensic**, **R
 ###### Programming Languages
 
 *   Primary: C++, JavaScript & Python
-*   Secondary: C, Java, Ruby, R & Julia
+*   Secondary: C, Java, Bash & Ruby
 
 ###### Frontend Development
 
-*   HTML, CSS, Tailwind, ReactJS, Gatsby, NextJS & Styled Components
+*   HTML, CSS, Tailwind, ReactJS, NextJS, Gatsby & Styled Components
 
 ###### Backend Development
 
