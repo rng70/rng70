@@ -19,15 +19,15 @@
 <!-- About me start -->
 ## A Glimpse of Me
 
-Hey, I’m Tanin, CS grad from Bangladesh University of Engineering and Technology(**BUET**). I am a __Secure Software developer__ at __OpenRefactory__, with a focus on __Open Source Software Supply Chain Security__. </br></br>
-As a security researcher, everyday my focus is improving the open source software security and I truely believe that breaking things in an appropriate way is essential for making it unbreakable. Currently though my main focus is open source software security but I am looking to more collaboration on **OpenSource** developements in near future. </br></br>
-I am very passionate about Networking and Reverse Engineering, Malware Analysis and Kernel & Web development and very fond of CTFs and very low-level stuffs like Firware and Dirvers.
+Hey, I’m Tanin, a CS grad from Bangladesh University of Engineering and Technology(**BUET**). I am a __Secure Software developer__ at __OpenRefactory__, with a focus on __Open Source Software Supply Chain Security__. </br></br>
+As a security researcher, my daily focus is improving the open-source software security and I truly believe that breaking things in an appropriate way is essential for making them unbreakable. Although my primary focus is currently on open-source software security, I am looking forward to collaboration on **Open-Source** developements in the near future.</br></br>
+I am very passionate about Networking, Reverse Engineering, Malware Analysis, Kernel and Web development I am particularly fond of CTFs and low-level topics like Firmware and Drivers.
 
-I also write code for the web but it is only my hobby.</br>
+I also write code for the web, but it is only a hobby.</br>
 
-I also develop desktop applications and soon I will release my first desktop application for easy **JSON and Database Navigation** written in Rust.
+Additionally, I develop desktop applications, and I will soon release my first desktop application for easy **JSON and Database Navigation**, written in Rust.
 
-Now I am learning **Advanced Data Structures and Algorithms**, **Kernel Debugging**, **Linux Driver Development** and a little bit of **Tauri**.
+Right now, I am learning **Advanced Data Structures and Algorithms**, **Kernel Debugging**, **Linux Driver Development** and exploring **Tauri**.
 
 <!-- About me end -->
 ## Interest
@@ -92,6 +92,10 @@ Now I am learning **Advanced Data Structures and Algorithms**, **Kernel Debuggin
      * __MongoDB__
      * __Redis__
      * Oracle PL/SQL
+ 
+## My contributions and achievements in a nutshell
+* I co-founded a security club named [BUET Cyber Security Club | Buetsec](https://buetsec.github.io/) and served as its founding president
+* I was a problemsetter at KnightCTF-2022, an international CTF competition based in Bangladesh 
 
 ## Connect with me
 * <img src='https://pbs.twimg.com/profile_images/1683508200069296129/KM80Wkfx_400x400.jpg' width='25' title='X.com: Al Arafat Tanin | rng70' alt='X.com: Al Arafat Tanin | rng70'/> &nbsp; <a href="https://twitter.com/rng70" target="_blank" style="text-decoration:none">X: Al Arafat Tanin | rng70</a>
