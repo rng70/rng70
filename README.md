@@ -5,7 +5,7 @@
 
 
 <h1 align="left">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Al Arafat Tanin</h1>
-<h3 align="left">Secure Software Developer @OpenRefactory | Security Researcher | Linux Kernel & Driver, RE Enthusiast</h3>
+<h3 align="left">Secure Software Developer @OpenRefactory | Security Researcher | Linux Kernel, Driver & RE Enthusiast</h3>
 <p align="left">
 <a href="https://github.com/rng70/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=rng70">
