@@ -19,9 +19,9 @@
 <!-- About me start -->
 ## A Glimpse of Me
 
-Hey, I’m Tanin, CS grad from Bangladesh University of Engineering and Technology(**BUET**). I am a Secure Software developer at OpenRefactory, with a focus on Open Source Software Supply Chain Security. I am very passionate about security and reverse engineering, malware analysis and kernel and web development. I am very fond of CTFs and very low-level stuffs like firware and dirvers. </br></br>
-
-As a security researcher, everyday my focus is improving the open source software security and I truely believe that breaking things in an appropriate way is essential for making it unbreakable. Currently though my main focus is open source software security but I am looking to more collaboration on **OpenSource** developements in near future.
+Hey, I’m Tanin, CS grad from Bangladesh University of Engineering and Technology(**BUET**). I am a __Secure Software developer__ at __OpenRefactory__, with a focus on __Open Source Software Supply Chain Security__. </br></br>
+As a security researcher, everyday my focus is improving the open source software security and I truely believe that breaking things in an appropriate way is essential for making it unbreakable. Currently though my main focus is open source software security but I am looking to more collaboration on **OpenSource** developements in near future. </br></br>
+I am very passionate about Networking and Reverse Engineering, Malware Analysis and Kernel & Web development and very fond of CTFs and very low-level stuffs like Firware and Dirvers.
 
 I also write code for the web but it is only my hobby.</br>
 
@@ -41,7 +41,6 @@ Now I am learning **Advanced Data Structures and Algorithms**, **Kernel Debuggin
 
 <!-- Language and tools start -->
 ## Goals of 2025
----
 *   My priority list to complete in 2025
        - [ ] Smart Contracts Security
        - [ ] Hack The Box 
@@ -52,12 +51,9 @@ Now I am learning **Advanced Data Structures and Algorithms**, **Kernel Debuggin
        - [ ] Kernel Debugging
        - [x] VS Code<sup>in depth</sup>
        - [x] Networking<sup>in depth</sup>
-
-
-**this is huge but hoping for the best**
+*this is just a glimps of my hope to learn something new**
 
 ## Technologies I work with
-
 ###### Languages
 * __Everyday Essentials__
   * __Python__
