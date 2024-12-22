@@ -17,16 +17,17 @@
 <!-- Image end -->
 
 <!-- About me start -->
-## About Me
+## A Glimpse of Me
 
-Hey, I’m Tanin, CS grad from Bangladesh University of Engineering and Technology(**BUET**). I am an ethical hacker and reverse engineering, malware analysis and kernel hack and development enthusiast, web app developer, CTF lover and an average linux user. </br></br>
-As a cybersec enthusiast, normally I break things for making things secured and as a web dev enthusiast write code for the web. </br>
-<!-- Currently I am focusing on open source and looking to more collaboration on **OpenSource**. </br></br> --->
-Now I am learning **Advanced Data Structures and Algorithms**, **Forensic**, **Linux Driver Development** and a little bit of **React**, and **NextJS**.
+Hey, I’m Tanin, CS grad from Bangladesh University of Engineering and Technology(**BUET**). I am a Secure Software developer at OpenRefactory, with a focus on Open Source Software Supply Chain Security. I am very passionate about security and reverse engineering, malware analysis and kernel and web development. I am very fond of CTFs and very low-level stuffs like firware and dirvers. </br></br>
 
-## Connect with me
+As a security researcher, everyday my focus is improving the open source software security and I truely believe that breaking things in an appropriate way is essential for making it unbreakable. Currently though my main focus is open source software security but I am looking to more collaboration on **OpenSource** developements in near future.
 
-<a href="https://twitter.com/rng70" target="_blank"><img src="https://img.shields.io/badge/twitter-rng70-red"/></a> <a href="https://linkedin.com/in/rng70" target="_blank"><img src="https://img.shields.io/badge/linkedin-rng70-green"/></a> <a href="https://www.facebook.com/arafat.rng70/" target="_blank"><img src="https://img.shields.io/badge/facebook-Al%20Arafat%20Tanin-blue"/></a>
+I also write code for the web but it is only my hobby.</br>
+
+I also develop desktop applications and soon I will release my first desktop application for easy **JSON and Database Navigation** written in Rust.
+
+Now I am learning **Advanced Data Structures and Algorithms**, **Kernel Debugging**, **Linux Driver Development** and a little bit of **Tauri**.
 
 <!-- About me end -->
 ## Interest
@@ -95,3 +96,8 @@ Now I am learning **Advanced Data Structures and Algorithms**, **Forensic**, **L
      * __MongoDB__
      * __Redis__
      * Oracle PL/SQL
+
+## Connect with me
+* <img src='https://pbs.twimg.com/profile_images/1683508200069296129/KM80Wkfx_400x400.jpg' width='25' title='X.com: Al Arafat Tanin | rng70' alt='X.com: Al Arafat Tanin | rng70'/> &nbsp; <a href="https://twitter.com/rng70" target="_blank" style="text-decoration:none">X: Al Arafat Tanin | rng70</a>
+* <img src='https://static-00.iconduck.com/assets.00/rounded-linkedin-icon-256x256-lcger4dj.png' width='25' title='LinkedIn: Al Arafat Tanin | rng70'/> &nbsp; <a href="https://linkedin.com/in/rng70" target="_blank" style="text-decoration:none">LinkedIn: Al Arafat Tanin | rng70</a>
+* <img src='https://png.pngtree.com/element_our/png/20180930/facebook-logo-icon-design-vector-png_115284.jpg' width='25' title='Facebook: Al Arafat Tanin | rng70'/> &nbsp; <a href="https://www.facebook.com/tanin.alarafat/" target="_blank" style="text-decoration:none">Facebook: Al Arafat Tanin | rng70</a>
