@@ -94,7 +94,8 @@ Right now, I am learning **Advanced Data Structures and Algorithms**, **Kernel D
  
 ## My contributions and achievements in a nutshell
 * I co-founded a security club named [BUET Cyber Security Club | Buetsec](https://buetsec.github.io/) and served as its founding president
-* I was a problemsetter at KnightCTF-2022, an international CTF competition based in Bangladesh 
+* I was a problemsetter at KnightCTF-2022, an international CTF competition based in Bangladesh
+* My team(Team fSociety, BUET) and I were 2nd runners-up in [National Cyber Drill 2022](https://www.cirt.gov.bd/wp-content/uploads/2022/12/Press-Release-NCD-2022.pdf)
 
 ## Connect with me
 * <img src='https://pbs.twimg.com/profile_images/1683508200069296129/KM80Wkfx_400x400.jpg' width='25' title='X.com: Al Arafat Tanin | rng70' alt='X.com: Al Arafat Tanin | rng70'/> &nbsp; <a href="https://twitter.com/rng70" target="_blank" style="text-decoration:none">X: Al Arafat Tanin | rng70</a>
