@@ -29,7 +29,7 @@ Additionally, I develop desktop applications, and I will soon release my first d
 Right now, I am learning **Advanced Data Structures and Algorithms**, **Kernel Debugging**, **Linux Driver Development** and exploring **Tauri**.
 
 <!-- About me end -->
-## Interest
+## My Intellectual Curiosity
 *   Open Source Supply Chain Security
 *   Firmware and Kernel Security
 *   Web3.0 & Blockchain Security
@@ -39,7 +39,7 @@ Right now, I am learning **Advanced Data Structures and Algorithms**, **Kernel D
 *   Linux Driver Development
 
 <!-- Language and tools start -->
-## Goals of 2025
+## Goals in 2025
 *   My priority list to complete in 2025
        - [ ] Smart Contracts Security
        - [ ] Hack The Box 
@@ -52,7 +52,7 @@ Right now, I am learning **Advanced Data Structures and Algorithms**, **Kernel D
        - [x] Networking<sup>in depth</sup>
 *this is just a glimps of my hope to learn something new**
 
-## Technologies I work with
+## Technologies I am proficient in
 ###### Languages
 * __Everyday Essentials__
   * __Python__
