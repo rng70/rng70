@@ -50,7 +50,8 @@ Right now, I am learning **Advanced Data Structures and Algorithms**, **Kernel D
        - [ ] Kernel Debugging
        - [x] VS Code<sup>in depth</sup>
        - [x] Networking<sup>in depth</sup>
-*this is just a glimps of my hope to learn something new**
+
+*this is just a glimpse of the list of things I hope to learn*
 
 ## Technologies I am proficient in
 ###### Languages
