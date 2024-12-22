@@ -1,14 +1,11 @@
 <!-- Image start -->
-
 <p align="center"> 
     <a href="#"><img width="100%" height="auto" src="./assets/rng70.png" height="175px"/> </a>
 </p>
 
 
-
 <h1 align="left">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Al Arafat Tanin</h1>
-<hr style="height:4px;border-width:0;color:gray;background-color:gray">
-<h3 align="left">| Ethical Hacker | Interested in Linux Kernel & Driver, Reverse Engineering, DFIR | React and Next.js |</h3>
+<h3 align="left">Secure Software Developer @OpenRefactory | Security Researcher | Linux Kernel & Driver, RE Enthusiast</h3>
 <p align="left">
 <a href="https://github.com/rng70/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=rng70">
@@ -17,49 +14,35 @@
  <img src="https://img.shields.io/github/followers/rng70?label=Followers&style=social" alt="GitHub Badge">
 </a>
 </p>
-
 <!-- Image end -->
-<!-- About me start -->
 
+<!-- About me start -->
 ## About Me
 
----
-
-Hey, I’m Tanin, final year CS undergrad at Bangladesh University of Engineering and Technology(**BUET**). I am an ethical hacker and reverse engineering, malware analysis and kernel hack and development enthusiast, web app developer, CTF lover and an average linux user. </br></br>
+Hey, I’m Tanin, CS grad from Bangladesh University of Engineering and Technology(**BUET**). I am an ethical hacker and reverse engineering, malware analysis and kernel hack and development enthusiast, web app developer, CTF lover and an average linux user. </br></br>
 As a cybersec enthusiast, normally I break things for making things secured and as a web dev enthusiast write code for the web. </br>
 <!-- Currently I am focusing on open source and looking to more collaboration on **OpenSource**. </br></br> --->
 Now I am learning **Advanced Data Structures and Algorithms**, **Forensic**, **Linux Driver Development** and a little bit of **React**, and **NextJS**.
 
 ## Connect with me
 
----
-
 <a href="https://twitter.com/rng70" target="_blank"><img src="https://img.shields.io/badge/twitter-rng70-red"/></a> <a href="https://linkedin.com/in/rng70" target="_blank"><img src="https://img.shields.io/badge/linkedin-rng70-green"/></a> <a href="https://www.facebook.com/arafat.rng70/" target="_blank"><img src="https://img.shields.io/badge/facebook-Al%20Arafat%20Tanin-blue"/></a>
 
 <!-- About me end -->
-
 ## Interest
 
----
-
-*   Web3 
-*   Blockchain
-*   CyberSecurity
-*   Data Structure and Algorithm
-*   History, Psychology & Astrophysics
-*   Mathematics (Linear Algebra, Calculus, Topology and Game Theory) 
-*   Capture the Flag(CTF)
+*   Open Source Supply Chain Security
+*   Firmware and Kernel Security
+*   Web3.0 & Blockchain Security
+*   Advanced Data Structure and Algorithm
+*   Topology and Game Theory
 *   Reverse Engineering and Malware Analysis
 *   Linux Driver Development
-*   Firmware and Linux Kernel
 
 <!-- Language and tools start -->
-
-## Goals of 2023
-
+## Goals of 2025
 ---
-
-*   Some of my goals in 2023
+*   Some of my goals in 2025
 
        - [ ] VS Code<sup>learnig</sup>
        - [ ] Networking<sup>learning</sup>
