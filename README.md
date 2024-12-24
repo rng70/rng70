@@ -26,7 +26,7 @@ I am very passionate about Networking, Reverse Engineering, Malware Analysis, Ke
 I also write code for the web, but it is only a hobby.</br>
 Additionally, I develop desktop applications, and I will soon release my first desktop application for easy **JSON and Database Navigation**, written in Rust.
 
-Right now, I am learning **Advanced Data Structures and Algorithms**, **Kernel Debugging**, **Linux Driver Development** and exploring **Tauri**.
+Right now, I am learning **Advanced Data Structures and Algorithms**, **Kernel Debugging**, **Linux Driver Development** and exploring **[Tauri](https://tauri.app) & [Leptos](https://www.leptos.dev)**.
 
 <!-- About me end -->
 ## My Intellectual Curiosity
@@ -41,6 +41,7 @@ Right now, I am learning **Advanced Data Structures and Algorithms**, **Kernel D
 <!-- Language and tools start -->
 ## Goals in 2025
 *   My priority list to complete in 2025
+       - [ ] Tauri & Leptos
        - [ ] Smart Contracts Security
        - [ ] Hack The Box 
        - [ ] Kubernetes
