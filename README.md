@@ -45,7 +45,8 @@ Right now, I am learning **Advanced Data Structures and Algorithms**, **Kernel D
        - [ ] Smart Contracts Security
        - [ ] Hack The Box 
        - [ ] Kubernetes
-       - [ ] Tauri & GraphQL
+       - [ ] GraphQL
+       - [ ] Creative Coding with [nannou](https://nannou.cc/)
        - [ ] Web Animations
        - [ ] Firmware and Driver
        - [ ] Kernel Debugging
