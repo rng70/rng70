@@ -21,9 +21,10 @@
 
 Hey, I’m Tanin, a CS grad from Bangladesh University of Engineering and Technology(**BUET**). I am a __Secure Software developer__ at __OpenRefactory__, with a focus on __Open Source Software Supply Chain Security__. </br></br>
 As a security researcher, my daily focus is improving the open-source software security and I truly believe that breaking things in an appropriate way is essential for making them unbreakable. Although my primary focus is currently on open-source software security, I am looking forward to collaborating on **open-source** developements in the near future.</br></br>
-I am very passionate about Networking, Reverse Engineering, Malware Analysis, Kernel and Web development I am particularly fond of CTFs and low-level topics like Firmware and Drivers.
+I am very passionate about Networking, Reverse Engineering, Malware Analysis, Kernel and Web development. I am particularly fond of CTFs and low-level topics like Firmware and Drivers.
 
 I also write code for the web, but it is only a hobby.</br>
+
 Additionally, I develop desktop applications, and I will soon release my first desktop application for easy **JSON and Database Navigation**, written in Rust.
 
 Right now, I am learning **Advanced Data Structures and Algorithms**, **Kernel Debugging**, **Linux Driver Development** and exploring **[Tauri](https://tauri.app) & [Leptos](https://www.leptos.dev)**.
